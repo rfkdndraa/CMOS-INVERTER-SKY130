@@ -72,3 +72,5 @@ The schematic is designed using Xschem and simulated using Ngspice.
 - Xschem
 - Ngspice
 - SkyWater SKY130A PDK
+
+Accessed via http://localhost:8080
