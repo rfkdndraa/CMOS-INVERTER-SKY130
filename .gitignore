@@ -1,0 +1,20 @@
+# Ngspice simulation outputs
+*.raw
+*.log
+*.out
+*.dat
+
+# Temporary Xschem files
+*.bak
+*.history
+*.sch~
+*.sym~
+
+# Generated netlists
+*.spice
+*.cir
+
+# Operating system files
+.DS_Store
+Thumbs.db
+EOF
