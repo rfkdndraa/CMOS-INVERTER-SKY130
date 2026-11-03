@@ -31,10 +31,9 @@ The schematic is designed and simulated using Xschem and Ngspice.
 - Xschem
 - Ngspice
 - SkyWater SKY130A PDK
-=======
+  
 # CMOS-INVERTER-SKY130
 A repository containing an inverter circuit simulation in XSCHEM using SKY130 PDK 
->>>>>>> a960dba5e3c35a97d2ab904541f00a09f8fba37c
 # CMOS Inverter Design - SKY130A
 
 ## Overview
