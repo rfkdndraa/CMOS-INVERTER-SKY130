@@ -63,6 +63,10 @@ The schematic is designed using Xschem and simulated using Ngspice.
 | `CMOS_Inverter_SKY130_testbench.sch` | Simulation testbench |
 | `CMOS_Inverter_SKY130.sym` | CMOS inverter symbol |
 
+## Simulation Results
+
+![CMOS Inverter Simulation Results](CMOS_Inverter_SKY130_testbench_results.png)
+
 ## Tools
 
 - Xschem
