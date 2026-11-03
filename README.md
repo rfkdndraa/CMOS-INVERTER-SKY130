@@ -6,6 +6,7 @@ This project implements a CMOS inverter using the SkyWater SKY130A Process Desig
 The schematic is designed and simulated using Xschem and Ngspice.
 
 ## Design Parameters
+With the given student number of 5022231107, the parameter of the transistors would be:
 
 | Parameter | PMOS | NMOS |
 |---|---:|---:|
